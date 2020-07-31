@@ -22,11 +22,21 @@ After downloading the expert demonstration, you can then train ABCO. There are s
 ## Citation
 
 ```
-@article{monteiro2020augmented,
-  title={Augmented Behavioral Cloning from Observation},
-  author={Monteiro, Juarez and Gavenski, Nathan and Granada, Roger and Meneguzzi, Felipe and Barros, Rodrigo},
-  journal={arXiv preprint arXiv:2004.13529},
-  year={2020}
+@inproceedings{monteiro2020augmented,
+  author    = {Monteiro, Juarez and 
+               Gavenski, Nathan and
+               Granada, Roger and 
+               Meneguzzi, Felipe and 
+               Barros, Rodrigo C},
+  title     = {Augmented Behavioral Cloning from Observation},
+  booktitle = {Proceedings of the 2020 International Conference on Neural Networks},
+  series    = {IJCNN 2020},
+  location  = {Glasgow, Scotland},
+  pages     = {1--8},
+  url       = {https://arxiv.org/abs/2004.13529},
+  month     = {July},
+  year      = {2020},
+  publisher = {IEEE}
 }
 ```
 
