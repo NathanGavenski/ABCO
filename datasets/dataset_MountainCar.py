@@ -1,14 +1,14 @@
 from collections import defaultdict
+from copy import copy
+
 import torch
 import numpy as np
 import pandas as pd
-
-from copy import copy
 from PIL import Image
+from sklearn.model_selection import train_test_split
 from torchvision import transforms
 from torch.utils.data import Dataset
 from torch.utils.data import DataLoader
-from sklearn.model_selection import train_test_split
 
 np.set_printoptions(suppress=True)
 

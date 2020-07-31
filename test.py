@@ -1,6 +1,5 @@
 # Args should be imported before everything to cover https://discuss.pytorch.org/t/cuda-visible-device-is-of-no-use/10018
 from utils.args import args
-
 from collections import defaultdict
 import os
 import shutil
