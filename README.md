@@ -31,5 +31,5 @@ After downloading the expert demonstration, you can then train ABCO. There are s
 ```
 
 ### ToDo
-- [ ] requirements
+- [x] requirements
 - [ ] finish the ReadMe
