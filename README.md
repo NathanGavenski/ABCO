@@ -1,6 +1,6 @@
 # Augmented Behavior Cloning from Observation (ABCO)
 
-Official Pytorch implementation of [ABCO](https://arxiv.org/abs/2004.13529)
+Official Pytorch implementation of [Augmented Behavior Cloning from Observation](https://arxiv.org/abs/2004.13529)
 
 ---
 
@@ -10,9 +10,12 @@ Augmented Behavioral Cloning from Observation (ABCO) combines both an *Inverse D
 
 <img src="images/pipeline_abco.svg"/>
 
+<br><br>
 
 ## Downloading the data
 You can download the data we used to train our models [here](https://drive.google.com/file/d/1_wnrfv1OEM_EuPaF5tMF2l2ZJjr9lJVh/view?usp=sharing)
+
+<br><br>
 
 ## Training ABCO
 
@@ -27,6 +30,8 @@ After downloading the expert demonstration, you can then train ABCO. There are s
 ./scripts/bcio_alpha_mountaincar
 ```
 **We ran ABCO on a server, if you are running locally you might want to remove** ```xvfb-run -a -s "-screen 0 1400x900x24"``` **from the scripts**
+
+<br><br>
 
 ## Citation
 
