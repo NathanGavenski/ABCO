@@ -48,7 +48,3 @@ After downloading the expert demonstration, you can then train ABCO. There are s
   publisher = {IEEE}
 }
 ```
-
-### ToDo
-- [x] requirements
-- [ ] finish the ReadMe
